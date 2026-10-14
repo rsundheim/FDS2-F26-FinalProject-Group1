@@ -4,3 +4,4 @@ Ryan Sundheim (rsundheim)
 Damilola Ogunsanya (lolerOG)
 
 ## Data
+https://www.kaggle.com/datasets/khushikyad001/the-true-cost-of-fast-fashion-impact?resource=download
