@@ -10,3 +10,4 @@ https://www.kaggle.com/datasets/khushikyad001/the-true-cost-of-fast-fashion-impa
 ## Team
 Ryan Sundheim (rsundheim) owns 00_load_data.ipynb
 Brindha (GitHub: @brindhabagati) · assembles cells
+Lola Ogunsanya (Github: lolerOG) -  collaborator
