@@ -2,12 +2,12 @@
 ## Members
 Ryan Sundheim (rsundheim)
 Damilola Ogunsanya (lolerOG)
+Brindha Bagati (brindhabagati)
 
 ## Data
-https://www.kaggle.com/datasets/khushikyad001/the-true-cost-of-fast-fashion-impact?resource=download
-
+https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
 
 ## Team
-Ryan Sundheim (rsundheim) owns 00_load_data.ipynb
+Ryan Sundheim (Github: @rsundheim) · owns 00_load_data.ipynb
 Brindha (GitHub: @brindhabagati) · assembles cells
-Lola Ogunsanya (Github: lolerOG) -  collaborator
+Lola Ogunsanya (Github: @lolerOG) · collaborator
